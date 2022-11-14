@@ -54,3 +54,14 @@ section.redes img{
     border-radius: 50%;
     box-shadow: 50px black;
 }
+
+
+section.redes img:hover{
+ border: 5px solid white;
+ transform: translate(-15px, -5px);
+ transition: .5s;
+
+
+}
+
+ 
